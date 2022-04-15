@@ -33,3 +33,5 @@ hs_err_pid*
 .classpath
 .project
 
+.idea/vcs.xml
+.idea/compiler.xml
